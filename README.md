@@ -1,8 +1,8 @@
 <a href="https://github.com/Sora-My-One-And-Only/Portfolio">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark-v2.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/profile-light-v2.svg">
-    <img alt="Sora — Game Planner. Level and combat design, Unity, ARCANE CHRONICLE." src="assets/profile-dark-v2.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark-v3.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/profile-light-v3.svg">
+    <img alt="Sora — Game Planner. Level and combat design, Unity, ARCANE CHRONICLE." src="assets/profile-dark-v3.svg" width="100%">
   </picture>
 </a>
 
