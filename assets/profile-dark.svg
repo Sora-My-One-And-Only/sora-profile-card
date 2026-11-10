@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" role="img" aria-labelledby="title desc">
+  <title id="title">Sora | Game Planner</title>
+  <desc id="desc">Sora's GitHub profile card, with character portrait rendered as ASCII art. Game planning, level and combat design, Unity, ARCANE CHRONICLE.</desc>
+  <rect x="1" y="1" width="998" height="518" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <path d="M17 1 H983 Q999 1 999 17 V51 H1 V17 Q1 1 17 1" fill="#151922"/>
+  <path d="M1 51 H999" stroke="#30363d"/>
+  <circle cx="25" cy="27" r="5" fill="#d5b4d9"/><circle cx="44" cy="27" r="5" fill="#e8dccb"/><circle cx="63" cy="27" r="5" fill="#9d8fba"/>
+  <g font-family="Consolas, 'Liberation Mono', monospace">
+    <text x="88" y="32" font-size="12" fill="#9299a8">sora@github ~ / profile</text>
+    <path d="M425 83 V449" stroke="#30363d"/>
+    <g fill="#cbbdd8" font-size="7.6" xml:space="preserve">
+<text x="32" y="92" textLength="368" lengthAdjust="spacingAndGlyphs">                                                                                </text>
+<text x="32" y="99.4" textLength="368" lengthAdjust="spacingAndGlyphs">                                                                                </text>
+<text x="32" y="106.8" textLength="368" lengthAdjust="spacingAndGlyphs">                                                                                </text>
+<text x="32" y="114.2" textLength="368" lengthAdjust="spacingAndGlyphs">                              SG#9                                              </text>
+<text x="32" y="121.6" textLength="368" lengthAdjust="spacingAndGlyphs">                             #S  G##999#######999                               </text>
+<text x="32" y="129" textLength="368" lengthAdjust="spacingAndGlyphs">                           S  ##99SS9BSS#B&amp;&amp;&amp;BB&amp;@@B9                            </text>
+<text x="32" y="136.4" textLength="368" lengthAdjust="spacingAndGlyphs">                          # ##B&amp;9SGG99#9SGSB&amp;&amp;BB9&amp;&amp;&amp;#                           </text>
+<text x="32" y="143.8" textLength="368" lengthAdjust="spacingAndGlyphs">                          39&amp;&amp;9#9B9B&amp;&amp;B&amp;&amp;B9S9&amp;&amp;&amp;&amp;9B932GBB                       </text>
+<text x="32" y="151.2" textLength="368" lengthAdjust="spacingAndGlyphs">                       H5X#@&amp;&amp;99&amp;99B&amp;&amp;B9&amp;&amp;&amp;B#9@@@&amp;#2;;ishh                      </text>
+<text x="32" y="158.6" textLength="368" lengthAdjust="spacingAndGlyphs">                      srr9@@&amp;B&amp;9#BBB&amp;B&amp;#B&amp;&amp;&amp;&amp;9B&amp;&amp;&amp;&amp;sirXXiXAX                    </text>
+<text x="32" y="166" textLength="368" lengthAdjust="spacingAndGlyphs">                     srX9&amp;&amp;&amp;&amp;&amp;@&amp;9#&amp;B&amp;&amp;&amp;9S&amp;&amp;@&amp;B#B&amp;&amp;&amp;Sss;M5sXr                    </text>
+<text x="32" y="173.4" textLength="368" lengthAdjust="spacingAndGlyphs">                   isssGS&amp;&amp;B9&amp;&amp;BB#9B&amp;@&amp;9MB9&amp;B99#&amp;&amp;&amp;B3r;XB2;A                    </text>
+<text x="32" y="180.8" textLength="368" lengthAdjust="spacingAndGlyphs">                    iiM2#&amp;&amp;99&amp;B#9S&amp;99BB9HS#9&amp;#9#BBB9Gs;:SBssX                   </text>
+<text x="32" y="188.2" textLength="368" lengthAdjust="spacingAndGlyphs">                     55A&amp;B&amp;#9B9G#HB&amp;999S#S#HB#HS#B99HHi;h@HsX                   </text>
+<text x="32" y="195.6" textLength="368" lengthAdjust="spacingAndGlyphs">                    shXH9BB#999MSG#BB#BS#9SS#9MH#B99MM3i5&amp;95Xs                  </text>
+<text x="32" y="203" textLength="368" lengthAdjust="spacingAndGlyphs">                   s2AA#SBBS9S#MSS#SB9#G9@99#SGHSB##Gh3AABBGAX                  </text>
+<text x="32" y="210.4" textLength="368" lengthAdjust="spacingAndGlyphs">                   sXr29MBBS9GSG9#&amp;S#9#G9B3siii;39##HMXsX#B#G3G                 </text>
+<text x="32" y="217.8" textLength="368" lengthAdjust="spacingAndGlyphs">                      S93S9SSSG3Xss2S##GBB#5i,,sSS#SHM2X29B#&amp;HH                 </text>
+<text x="32" y="225.2" textLength="368" lengthAdjust="spacingAndGlyphs">                      ##MM9HGSh2GA,.G&amp;9#B@@#A55#SS9GGhhHMS&amp;#B# #                </text>
+<text x="32" y="232.6" textLength="368" lengthAdjust="spacingAndGlyphs">                     S&amp;9MMMGhGh3&amp;SA2S@&amp;&amp;&amp;&amp;&amp;@99B9MB9hH hGGH&amp;B#B  #               </text>
+<text x="32" y="240" textLength="368" lengthAdjust="spacingAndGlyphs">                     #B#GG2MhMH5h@BB&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@&amp;9h#&amp;S3G hSGGS@SBS  #              </text>
+<text x="32" y="247.4" textLength="368" lengthAdjust="spacingAndGlyphs">                    #SBS9G2HMh#M5H&amp;&amp;&amp;&amp;&amp;&amp;@@&amp;9#G G@#h   M#H9G#&amp;#S   #             </text>
+<text x="32" y="254.8" textLength="368" lengthAdjust="spacingAndGlyphs">                   9 S#B9H2S#3#BM2  GSS#GHGGSGHB#3M   G#h99HBBSh  #             </text>
+<text x="32" y="262.2" textLength="368" lengthAdjust="spacingAndGlyphs">                  #  #BBGM3M#  BBhG#BBBBMhSBBS9SM#B#  9S3BB#HBBMh  #            </text>
+<text x="32" y="269.6" textLength="368" lengthAdjust="spacingAndGlyphs">                    S&amp;&amp;HGMH5   M#SMHGSBShM9B#SSH&amp;@@&amp;  9G3#BBSG9BhG #            </text>
+<text x="32" y="277" textLength="368" lengthAdjust="spacingAndGlyphs">                  9#&amp;&amp;GHGhH  2XrXAAssrX5SG##SGH&amp;&amp;@@@  9MMG&amp;B9#G99M#S            </text>
+<text x="32" y="284.4" textLength="368" lengthAdjust="spacingAndGlyphs">                 9S9BSSSHhhXAsiXAAAXXsrsX#9##hG&amp;&amp;@@@H 9MGHB&amp;B#BHSB G            </text>
+<text x="32" y="291.8" textLength="368" lengthAdjust="spacingAndGlyphs">             G 99 9B#BGHhXAArsXXAAXXssrXrAB9GM9@@@@@H #MGh#&amp;&amp;9#&amp;MSBS            </text>
+<text x="32" y="299.2" textLength="368" lengthAdjust="spacingAndGlyphs">             SS  #B9@#hGAXX; #2iXXXsirisX;3BG#&amp;&amp;&amp;&amp;&amp;@9 SMS3HB&amp;&amp;S9&amp;GH##           </text>
+<text x="32" y="306.6" textLength="368" lengthAdjust="spacingAndGlyphs">           ##H  SB&amp;@# SMrsi BBMrsXXsii;iXiX#GG#9SHS9# GHS5h#&amp;@9GB&amp;G #S          </text>
+<text x="32" y="314" textLength="368" lengthAdjust="spacingAndGlyphs">           SH  #B&amp;&amp;G  Shi3 #&amp;G5h5A5Arr;:i;sGS9B9#hMS  hGH5hGB&amp;&amp;GG9&amp;# SS         </text>
+<text x="32" y="321.4" textLength="368" lengthAdjust="spacingAndGlyphs">           S #BBB#M  GG  G#93ssXM5AX225GS5HB&amp;BB9#HGGS  SM GGGB&amp;9M#B&amp;9 HS        </text>
+<text x="32" y="328.8" textLength="368" lengthAdjust="spacingAndGlyphs">       H   #S9BBGG  GS  H25Aris5hGS9&amp;&amp;@@@@@&amp;&amp;@@B#SGGh  #M  SM9&amp;&amp;SM#B@#h S       </text>
+<text x="32" y="336.2" textLength="368" lengthAdjust="spacingAndGlyphs">      G   #GB9#M#H G9G SMXXXsrAXsrX5G&amp;BB@@&amp;@@B&amp;&amp;9SH9S HG M SHGBB9 H#B@# S       </text>
+<text x="32" y="343.6" textLength="368" lengthAdjust="spacingAndGlyphs">      G  S 9&amp;#MG9 GGGH MAsssisXXsrrir#9MH9BBBBB#SSS#B9MM   S#M#BBS H9B&amp;9 S      </text>
+<text x="32" y="351" textLength="368" lengthAdjust="spacingAndGlyphs">      SSS S@9MH#93G HMS2sssrisssr;irrHBSAA5hGGHHGSS9B@Sh   G93S&amp;9#  H9BB#S      </text>
+<text x="32" y="358.4" textLength="368" lengthAdjust="spacingAndGlyphs">       SS S@B3GGBGM   3ssssirsssi;;ii599532ArS9G9S99&amp;@9HH  SG3GB9G#  S99&amp;#      </text>
+<text x="32" y="365.8" textLength="368" lengthAdjust="spacingAndGlyphs">       SGGGB&amp;G@ HSHMH rsssi;sssri;;;i,X9AAX2XX#99B9#B@9##h S3 H&amp;#M9  H99#9      </text>
+<text x="32" y="373.2" textLength="368" lengthAdjust="spacingAndGlyphs">        G H#@#     HG5rssr;issri;:ii;sSGX2552;s&amp;#&amp;&amp;S#&amp;9#B##G  9BGM9GMHBSH9      </text>
+<text x="32" y="380.6" textLength="368" lengthAdjust="spacingAndGlyphs">           HGB99     Arsr;;ssri;;;;i;s9B325rAAr999@B99B9BBGH 9&amp;9hG# S9S  #      </text>
+<text x="32" y="388" textLength="368" lengthAdjust="spacingAndGlyphs">              #999#  isri;rsri;;;;;:;;;29XA522rhBB&amp;@@##B&amp;BSH9@SM SS#9S  S       </text>
+<text x="32" y="395.4" textLength="368" lengthAdjust="spacingAndGlyphs">                GS  ;srr;isri;rriiii;;:;SM535srr3#BB@&amp;9#HS#99Gh S999   G        </text>
+<text x="32" y="402.8" textLength="368" lengthAdjust="spacingAndGlyphs">                    rsr;issri  iirsssXrrMB#hAX3ss53S9S9G SSS    SB              </text>
+<text x="32" y="410.2" textLength="368" lengthAdjust="spacingAndGlyphs">                  isssrrsssri         r;  GBh25rXi       GS      GG             </text>
+<text x="32" y="417.6" textLength="368" lengthAdjust="spacingAndGlyphs">                  irrirsssri                                                    </text>
+<text x="32" y="425" textLength="368" lengthAdjust="spacingAndGlyphs">                      ;iii                                                      </text>
+<text x="32" y="432.4" textLength="368" lengthAdjust="spacingAndGlyphs">                                                                                </text>
+<text x="32" y="439.8" textLength="368" lengthAdjust="spacingAndGlyphs">                                                                                </text>
+<text x="32" y="447.2" textLength="368" lengthAdjust="spacingAndGlyphs">                                                                                </text>
+<text x="32" y="454.6" textLength="368" lengthAdjust="spacingAndGlyphs">                                                                                </text>
+    </g>
+    <text x="461" y="108" font-size="28" font-weight="700" fill="#ede6dd">Sora</text>
+    <text x="461" y="135" font-size="13" letter-spacing="2.5" fill="#c7a8e8">GAME PLANNER</text>
+    <path d="M461 155 H953" stroke="#30363d"/>
+<text x="461" y="190" font-size="14" fill="#c7a8e8">Role</text><text x="577" y="190" font-size="14" fill="#9299a8">:</text><text x="598" y="190" font-size="14" fill="#ede6dd">Game Planner</text>
+<text x="461" y="222" font-size="14" fill="#c7a8e8">Focus</text><text x="577" y="222" font-size="14" fill="#9299a8">:</text><text x="598" y="222" font-size="14" fill="#ede6dd">Level / Combat Design</text>
+<text x="461" y="254" font-size="14" fill="#c7a8e8">Engine</text><text x="577" y="254" font-size="14" fill="#9299a8">:</text><text x="598" y="254" font-size="14" fill="#ede6dd">Unity</text>
+<text x="461" y="286" font-size="14" fill="#c7a8e8">Learning</text><text x="577" y="286" font-size="14" fill="#9299a8">:</text><text x="598" y="286" font-size="14" fill="#ede6dd">C# / C++</text>
+<text x="461" y="318" font-size="14" fill="#c7a8e8">Project</text><text x="577" y="318" font-size="14" fill="#9299a8">:</text><text x="598" y="318" font-size="14" fill="#ede6dd">ARCANE CHRONICLE</text>
+<text x="461" y="350" font-size="14" fill="#c7a8e8">Location</text><text x="577" y="350" font-size="14" fill="#9299a8">:</text><text x="598" y="350" font-size="14" fill="#ede6dd">Japan</text>
+    <path d="M461 378 H953" stroke="#30363d"/>
+    <text x="461" y="408" font-size="12" fill="#9299a8">github.com/Sora-My-One-And-Only</text>
+    <text x="461" y="442" font-size="13" fill="#c7a8e8">&gt; Building worlds. Designing encounters.</text>
+    <text x="32" y="493" font-size="11" fill="#9299a8">PROFILE / SORA</text>
+    <text x="953" y="493" text-anchor="end" font-size="11" fill="#9299a8">GAME DESIGN &amp; DEVELOPMENT</text>
+  </g>
+</svg>
